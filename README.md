@@ -86,11 +86,12 @@ npm run build                        # build de producción
 
 ## 👥 Equipo y roles
 
-| Persona | Rol principal | Área |
+| Persona | Email | Rol |
 |---|---|---|
-| Dev 1 | Frontend / UX | `frontend/` + diseño |
-| Dev 2 | Backend / API | `backend/` + BD |
-| Dev 3 | DevOps / Full-stack | `infra/`, CI/CD, integración |
+| atorres | torres.rivera.axel@gmail.com | Full-stack (frontend + backend + infra) |
+| dlastra | dlastra@gazeti.com.mx | Full-stack (frontend + backend + infra) |
+
+Los dos cubren todas las áreas (`frontend/`, `backend/`, `infra/`, CI/CD).
 
 Ver [CONTRIBUTING.md](docs/CONTRIBUTING.md) para detalles del flujo de trabajo.
 
