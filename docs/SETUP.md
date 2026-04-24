@@ -21,8 +21,8 @@ node --version  # opcional
 ## 2. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPO>
-cd cowork-project
+git clone https://github.com/dlastra1976/moviendo-leyendas.git
+cd moviendo-leyendas
 ```
 
 ## 3. Configurar variables de entorno

@@ -19,7 +19,7 @@ Antes de que entren los otros dos, AT hace esto:
   git init -b main
   git add .
   git commit -m "chore: initial scaffold"
-  git remote add origin git@github.com:USUARIO/REPO.git
+  git remote add origin git@github.com:dlastra1976/moviendo-leyendas.git
   git push -u origin main
   ```
 
@@ -68,8 +68,8 @@ Cada uno de los tres corre esto:
 
 - [ ] **Clonar y entrar**
   ```bash
-  git clone git@github.com:USUARIO/REPO.git cowork-app
-  cd cowork-app
+  git clone git@github.com:dlastra1976/moviendo-leyendas.git
+  cd moviendo-leyendas
   git checkout develop
   ```
 

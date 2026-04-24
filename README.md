@@ -24,8 +24,8 @@ Proyecto colaborativo entre 3 desarrolladores. Aplicación web con frontend y ba
 
 ```bash
 # 1. Clonar el repo
-git clone <URL_DEL_REPO>
-cd cowork-project
+git clone https://github.com/dlastra1976/moviendo-leyendas.git
+cd moviendo-leyendas
 
 # 2. Copiar variables de entorno
 cp .env.example .env
@@ -43,7 +43,7 @@ Los tres servicios arrancan juntos con hot-reload. Los cambios en el código se 
 ## 📁 Estructura del repo
 
 ```
-cowork-project/
+moviendo-leyendas/
 ├── frontend/              Vite + React + React Router
 ├── backend/               Fastify + TypeScript
 │   └── src/lib/           capas abstraídas (db, auth, storage)
